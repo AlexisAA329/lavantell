@@ -1,0 +1,809 @@
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\appsettings.Development.json
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\appsettings.json
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.exe
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.deps.json
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.json
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.dev.json
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Humanizer.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.csproj.AssemblyReference.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.AssemblyInfoInputs.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.AssemblyInfo.cs
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.csproj.CoreCompileInputs.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\scopedcss\bundle\LavantellAPIS.styles.css
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\staticwebassets\LavantellAPIS.StaticWebAssets.Manifest.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.RazorTargetAssemblyInfo.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.csproj.CopyComplete
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\refint\LavantellAPIS.dll
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.genruntimeconfig.cache
+C:\AHENAO\Proyecto\LavantellAPIS\obj\Debug\net5.0\ref\LavantellAPIS.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\appsettings.Development.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\appsettings.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.deps.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.dev.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Humanizer.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.csproj.AssemblyReference.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.AssemblyInfoInputs.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.AssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.csproj.CoreCompileInputs.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\scopedcss\bundle\LavantellAPIS.styles.css
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\staticwebassets\LavantellAPIS.StaticWebAssets.Manifest.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.RazorTargetAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.csproj.CopyComplete
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\refint\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\LavantellAPIS.genruntimeconfig.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS\obj\Debug\net5.0\ref\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\appsettings.Development.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\appsettings.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\LavantellAPIS.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\LavantellAPIS.deps.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.dev.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Humanizer.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.csproj.AssemblyReference.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.AssemblyInfoInputs.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.AssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.csproj.CoreCompileInputs.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\scopedcss\bundle\LavantellAPIS.styles.css
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\staticwebassets\LavantellAPIS.StaticWebAssets.Manifest.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.RazorTargetAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.csproj.CopyComplete
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\refint\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\LavantellAPIS.genruntimeconfig.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia\obj\Debug\net5.0\ref\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\appsettings.Development.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\appsettings.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\LavantellAPIS.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\LavantellAPIS.deps.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.dev.json
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Humanizer.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.csproj.AssemblyReference.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.AssemblyInfoInputs.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.AssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.csproj.CoreCompileInputs.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\scopedcss\bundle\LavantellAPIS.styles.css
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\staticwebassets\LavantellAPIS.StaticWebAssets.Manifest.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.RazorTargetAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.csproj.CopyComplete
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\refint\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\LavantellAPIS.genruntimeconfig.cache
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\obj\Debug\net5.0\ref\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\LavantellAPIS - copia - copia (3)\bin\Debug\net5.0\EASendMail.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\appsettings.Development.json
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\appsettings.json
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.exe
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.deps.json
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.json
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.dev.json
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\EASendMail.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Humanizer.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.csproj.AssemblyReference.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.AssemblyInfoInputs.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.AssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.csproj.CoreCompileInputs.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\scopedcss\bundle\LavantellAPIS.styles.css
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\staticwebassets\LavantellAPIS.StaticWebAssets.Manifest.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.RazorTargetAssemblyInfo.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.csproj.CopyComplete
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\refint\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.genruntimeconfig.cache
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\ref\LavantellAPIS.dll
+C:\AHENAO\Proyecto\copia-fun\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\appsettings.Development.json
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\appsettings.json
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.exe
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.deps.json
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.json
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.runtimeconfig.dev.json
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\EASendMail.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Humanizer.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.csproj.AssemblyReference.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.AssemblyInfoInputs.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.AssemblyInfo.cs
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.csproj.CoreCompileInputs.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cs
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.MvcApplicationPartsAssemblyInfo.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\scopedcss\bundle\LavantellAPIS.styles.css
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\staticwebassets\LavantellAPIS.StaticWebAssets.Manifest.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.RazorTargetAssemblyInfo.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.csproj.CopyComplete
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\refint\LavantellAPIS.dll
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.pdb
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\LavantellAPIS.genruntimeconfig.cache
+C:\AHENAO\Proyecto\WebApi\copia\LavantellAPIS - copia-sobrecualtrabajr\obj\Debug\net5.0\ref\LavantellAPIS.dll
