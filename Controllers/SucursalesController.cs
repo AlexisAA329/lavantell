@@ -1,5 +1,6 @@
 ﻿using LavantellAPIS.Context;
 using LavantellAPIS.Models;
+using LavantellAPIS.Models.Response;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -30,17 +31,22 @@ namespace LavantellAPIS.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
+            Respuesta oRespuesta = new Respuesta();
+
             try
             {
                 var listSucursales = await _context.Sucursales.ToListAsync();
-                return Ok(listSucursales);
+                oRespuesta.Exito = 1;
+                oRespuesta.Data = listSucursales;
+                //return Ok(listSucursales);
             }
             catch (Exception )
             {
                 //return BadRequest(ex.Message);
-                return BadRequest("Hubo un error al tratar de obtener las sucursales, por favor contacte con el administrador.");
-
+                //return BadRequest("Hubo un error al tratar de obtener las sucursales, por favor contacte con el administrador.");
+                oRespuesta.Mensaje = "Hubo un error al tratar de obtener las sucursales, por favor contacte con el administrador.";
             }
+            return Ok(oRespuesta);
         }
 
         // GET api/<SucursalesController>/5
@@ -56,19 +62,27 @@ namespace LavantellAPIS.Controllers
 
         public async Task<IActionResult> Post([FromBody] Sucursales sucursales)
         {
+            Respuesta oRespuesta = new Respuesta();
+
             try
             {
                 _context.Add(sucursales);
 
                 await _context.SaveChangesAsync();
-                return Ok(sucursales);
+                //return Ok(sucursales);
+                oRespuesta.Exito = 1;
+
             }
             catch (Exception )
             {
                 //return BadRequest(ex.Message);
-                return BadRequest("Hubo un error al tratar de enviar la sucursal, por favor contacte con el administrador.");
+                //return BadRequest("Hubo un error al tratar de enviar la sucursal, por favor contacte con el administrador.");
+                oRespuesta.Mensaje = "Hubo un error al tratar de enviar la sucursal, por favor contacte con el administrador.";
+
 
             }
+            return Ok(oRespuesta);
+
         }
 
         // PUT api/<SucursalesController>/5
@@ -77,6 +91,8 @@ namespace LavantellAPIS.Controllers
 
         public async Task<IActionResult> Put(int id, [FromBody] Sucursales sucursales)
         {
+            Respuesta oRespuesta = new Respuesta();
+
             try
             {
                 if (id != sucursales.Id)
@@ -85,14 +101,21 @@ namespace LavantellAPIS.Controllers
                 }
                 _context.Update(sucursales);
                 await _context.SaveChangesAsync();
-                return Ok(new { message = "la sesión de sucursales fue actualizada con exito" });
+                //return Ok(new { message = "la sesión de sucursales fue actualizada con exito" });
+                oRespuesta.Exito = 1;
+                oRespuesta.Mensaje = "la sesión de sucursales fue actualizada con exito";
+
+
             }
             catch (Exception )
             {
                 //return BadRequest(ex.Message);
-                return BadRequest("Hubo un error al tratar de actualizar la sucursal, por favor contacte con el administrador.");
+                //return BadRequest("Hubo un error al tratar de actualizar la sucursal, por favor contacte con el administrador.");
+                oRespuesta.Mensaje = "Hubo un error al tratar de actualizar la sucursal, por favor contacte con el administrador.";
+
 
             }
+            return Ok(oRespuesta);
 
         }
 
@@ -102,6 +125,7 @@ namespace LavantellAPIS.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
+            Respuesta oRespuesta = new Respuesta();
 
             try
             {
@@ -112,14 +136,19 @@ namespace LavantellAPIS.Controllers
                 }
                 _context.Sucursales.Remove(sucursales);
                 await _context.SaveChangesAsync();
-                return Ok(new { message = "la sesión de sucursales fue eliminada con exito" });
+                oRespuesta.Exito = 1;
+                //return Ok(new { message = "la sesión de sucursales fue eliminada con exito" });
+                oRespuesta.Mensaje = "la sesión de sucursales fue eliminada con exito";
+
             }
             catch (Exception )
             {
                 //return BadRequest(ex.Message);
-                return BadRequest("Hubo un error al tratar de eliminar la sucursal, por favor contacte con el administrador.");
+                //return BadRequest("Hubo un error al tratar de eliminar la sucursal, por favor contacte con el administrador.");
+                oRespuesta.Mensaje = "Hubo un error al tratar de eliminar la sucursal, por favor contacte con el administrador.";
 
             }
+            return Ok(oRespuesta);
 
         }
     }

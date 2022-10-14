@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AHENAO\\Proyecto\\WebApi\\copia\\LavantellAPIS - copia-sobrecualtrabajr\\LavantellAPIS.csproj": {}
+    "C:\\AHENAO\\Proyecto\\Copias\\LavantellAPIS2\\LavantellAPIS.csproj": {}
   },
   "projects": {
-    "C:\\AHENAO\\Proyecto\\WebApi\\copia\\LavantellAPIS - copia-sobrecualtrabajr\\LavantellAPIS.csproj": {
+    "C:\\AHENAO\\Proyecto\\Copias\\LavantellAPIS2\\LavantellAPIS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AHENAO\\Proyecto\\WebApi\\copia\\LavantellAPIS - copia-sobrecualtrabajr\\LavantellAPIS.csproj",
+        "projectUniqueName": "C:\\AHENAO\\Proyecto\\Copias\\LavantellAPIS2\\LavantellAPIS.csproj",
         "projectName": "LavantellAPIS",
-        "projectPath": "C:\\AHENAO\\Proyecto\\WebApi\\copia\\LavantellAPIS - copia-sobrecualtrabajr\\LavantellAPIS.csproj",
+        "projectPath": "C:\\AHENAO\\Proyecto\\Copias\\LavantellAPIS2\\LavantellAPIS.csproj",
         "packagesPath": "C:\\Users\\AndersonHenao\\.nuget\\packages\\",
-        "outputPath": "C:\\AHENAO\\Proyecto\\WebApi\\copia\\LavantellAPIS - copia-sobrecualtrabajr\\obj\\",
+        "outputPath": "C:\\AHENAO\\Proyecto\\Copias\\LavantellAPIS2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AndersonHenao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "EASendMail": {
               "target": "Package",
               "version": "[7.9.0.6, )"
